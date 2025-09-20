@@ -88,7 +88,7 @@ Customers frequently contact support for order status or policy clarification, d
 - Retrieval (API/FAQ): 200 ms  
 - LLM response: 800 ms  
 - Network/overhead: 100 ms  
-**Total ≤ 1200 ms (p95)**
+**Total ≤ 1200 ms (p95)**  
 
 ### Error & Fallback Behavior
 - On error: offer “Connect to support” immediately.  
